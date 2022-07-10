@@ -76,3 +76,66 @@ button{
     font-size: 12px;
     font-weight: bold;
 }
+.objectives .aim{
+    text-align: left;
+    border-left: 20px;
+}
+.objectives .imagec{
+    max-width: 100%;
+   max-height: 100%;
+    box-sizing: border-box;
+}
+.categories{
+    text-align: center;
+}
+
+.popular .products{
+    display: flex;
+    max-width: 100%;
+    max-height: 100%;
+    justify-content: space-between;
+    box-sizing: border-box;
+    border: 10px 10px;
+    padding: 5px 2px;
+}
+.popular .products .items{
+    max-width: 100%;
+    max-height: 100%;
+    box-sizing: border-box;
+    border: 10px 10px;
+    padding: 5px 5px;
+    justify-content: space-between;
+}
+.feedback .fintro{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.feedback{
+    display:
+
+}
+.feedback .feeds h3{
+    float:
+}
+.feedback .feeds .avatar{
+    width: 40px;
+    height: 40px;
+    border-radius: 40%;
+}
+.more{
+    
+}
+.subscribing{
+    align-content: center;
+}
+.footer .list{
+}
+.footer .closing{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
