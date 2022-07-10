@@ -1,0 +1,78 @@
+.navbar{
+    float: left;
+    background-color:black;
+    padding: 30px 30px;
+    text-align: center;
+}
+.navcont{
+    float: left;
+    text-align: center;
+}
+button{
+    background-color: orange;
+}
+.split{
+    float: inline-end;
+    padding: px 30px;
+}
+
+.mergecontainer{
+    display: flex;
+    background-image: url(../agriplus\ images/image\ 1.png);
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+}
+.mergecontainer .image1 img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.mergecontainer .image1{
+    flex: 1;
+}
+
+.mergecontainer .intro{
+    margin-left: 30px;
+    margin-top: 10px;
+    flex: 1;
+}
+.mergecontainer .intro h2{
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+.mergecontainer .intro p{
+    margin-top: 8px;
+    font-weight: 600;
+    /* font-size: 12px; */
+}
+.mergecontainer .intro button{
+    color: wheat;
+    background-color: orange;
+    margin-bottom: 85px;
+    margin-top: 20px;
+    height: 38px;
+    border: none;
+    padding: 10px;
+    font-weight: 900;
+}
+.stats{
+    display: flex;
+    width: 50px;
+    height: 80px;
+    margin: auto;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+    top: -70px ;
+    right: -50px;
+}
+.numbers .stats{
+    text-align: center;
+    height: 40px;
+    margin: 10px;
+}
+.stats .numbers p{
+    font-size: 12px;
+    font-weight: bold;
+}
