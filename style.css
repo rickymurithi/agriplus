@@ -1,6 +1,8 @@
+nav{
+    background-color:black;
+}
 .navbar{
     float: left;
-    background-color:black;
     padding: 30px 30px;
     text-align: center;
 }
@@ -129,12 +131,22 @@ button{
 .subscribing{
     align-content: center;
 }
-.footer .list{
+footer .list{
+    display: flex;
 }
-.footer .closing{
+footer .closing{
     text-align: center;
     justify-content: center;
     align-items: center;
+    font-weight: bold;
+    text-decoration-color: white;
+}
+footer
+{
+
+}
+footer{
+    background-color: blac;
 }
 
 
