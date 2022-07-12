@@ -116,7 +116,19 @@ button{
 }
 .feedback .fb{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-evenly;   
+}
+.feedback .fb .feeds{
+    padding: 10px;
+    border-bottom-width: 10px;
+    box-sizing: border-box;
+    box-shadow: grey;
+    clear: both;
+}
+.feedback{
+    box-sizing: border-box;
+    border: 30px;
+    box-shadow: grey;
 }
 .feedback .fb .feeds .checked {
     color: orange;
@@ -131,10 +143,10 @@ button{
     border-radius: 40%;
 }
 .more{
-    text-align: end;
+    margin-left: 1500px;
     font-size: 20px;
     font-weight: bold;
-    
+    padding: 60px;
 }
 .subscribing .point{
     font-size: 20px;
