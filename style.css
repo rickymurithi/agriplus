@@ -132,30 +132,27 @@ button{
     font-weight: bold;
     
 }
-body .subscribing{
+.subscribing .point .points{
     align-content: center;
     justify-content: center;
+    text-align: center;
 }
 footer .list img{
-    max-width: 18%;
-    max-height: 18%;
+    max-width: 20%;
+    max-height: 50%;
 } 
 
 footer .list{
-    display: flexbox;
     display: flex;
-    flex-direction: row;
+    text-decoration-color: white;
 }
 footer .list ul{
-    display: flexbox;
-    flex-direction: row;
+    text-decoration-color: white;
     
 }
-footer .list ul{
-    display: flexbox
-    flex-direction: row;
-    
-    
+footer{
+    display: flex;
+    background-color: blac;
 }
 footer .closing{
     text-align: center;
@@ -163,13 +160,6 @@ footer .closing{
     align-items: center;
     font-weight: bold;
     text-decoration-color: white;
-}
-footer
-{
-
-}
-footer{
-    background-color: blac;
 }
 
 
