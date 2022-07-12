@@ -136,13 +136,16 @@ button{
     font-weight: bold;
     
 }
-.subscribing .point .points{
-    align-content: center;
-    justify-content: center;
-    text-align: center;
+.subscribing .point{
+    font-size: 20px;
 }
 .subscribing{
     background-color: black;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 35px;
+    padding: 35px;
 }
 footer .list img{
     max-width: 20%;
@@ -153,10 +156,6 @@ footer .list{
     display: flex;
     
 }
-footer .list ul{
-    text-decoration-color: white;
-    text-emphasis-color: white;
-}
 footer .list ul p{
     font-size: 16px;
     font-weight: 500;
@@ -164,13 +163,13 @@ footer .list ul p{
     
 }
 footer .list ul h3{
-    font-size: 23px;
+    font-size: 25px;
     font-weight: bolder;
     padding-bottom: 10px;
     
 }
 footer .list ul h2{
-    font-size: 32px;
+    font-size: 34px;
     font-weight: bolder;
 }
 footer .footers{
