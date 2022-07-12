@@ -92,8 +92,9 @@ button{
 }
 .objectives .imagec{
     max-width: 100%;
-   max-height: 100%;
+    max-height: 100%;
     box-sizing: border-box;
+    
 }
 .categories{
     text-align: center;
@@ -139,6 +140,7 @@ button{
     border-bottom-width: 10px;
     box-sizing: border-box;
     box-shadow: grey;
+    justify-content: stretch;
     clear: both;
 }
 .feedback{
