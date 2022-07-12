@@ -82,6 +82,10 @@ button{
     text-align: left;
     border-left: 20px;
 }
+.objectives .aim h2{
+    font-weight: bolder;
+    font-size: 30px;
+}
 
 .objectives .imagec{
     max-width: 100%;
