@@ -114,14 +114,18 @@ button{
     font-size: 25px;
     font-weight: bold;
 }
-.feedback{
-    display:
-
+.feedback .fb{
+    display: flex;
+    justify-content: space-evenly;
 }
-.feedback .feeds h3{
-    float:
+.feedback .fb .feeds .checked {
+    color: orange;
 }
-.feedback .feeds .avatar{
+.feedback .fb .feeds h3{
+    float: right;
+    margin-left: 10px;
+}
+.feedback .fb .feeds .avatar{
     width: 40px;
     height: 40px;
     border-radius: 40%;
@@ -136,6 +140,9 @@ button{
     align-content: center;
     justify-content: center;
     text-align: center;
+}
+.subscribing{
+    background-color: black;
 }
 footer .list img{
     max-width: 20%;
