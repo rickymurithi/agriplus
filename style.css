@@ -86,7 +86,10 @@ button{
     font-weight: bolder;
     font-size: 30px;
 }
-
+.objectives .aim p{
+    font-size: 18px;
+    
+}
 .objectives .imagec{
     max-width: 100%;
    max-height: 100%;
