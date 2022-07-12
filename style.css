@@ -1,5 +1,6 @@
 nav{
     background-color:black;
+    display: flex;
 }
 .navbar{
     float: left;
@@ -126,13 +127,35 @@ button{
     border-radius: 40%;
 }
 .more{
+    text-align: end;
+    font-size: 20px;
+    font-weight: bold;
     
 }
-.subscribing{
+body .subscribing{
     align-content: center;
+    justify-content: center;
 }
+footer .list img{
+    max-width: 18%;
+    max-height: 18%;
+} 
+
 footer .list{
+    display: flexbox;
     display: flex;
+    flex-direction: row;
+}
+footer .list ul{
+    display: flexbox;
+    flex-direction: row;
+    
+}
+footer .list ul{
+    display: flexbox
+    flex-direction: row;
+    
+    
 }
 footer .closing{
     text-align: center;
