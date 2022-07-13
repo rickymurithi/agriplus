@@ -150,6 +150,7 @@ button{
 }
 .feedback .fb .feeds .checked {
     color: orange;
+    
 }
 .feedback .fb .feeds h3{
     float: right;
@@ -195,7 +196,15 @@ footer .list ul h3{
     font-size: 25px;
     font-weight: bolder;
     padding-bottom: 10px;
-    
+}
+.icons{
+    justify-content: space-evenly;
+    padding: 20px;
+    font-size: 25px;
+    display: flex;
+    width: 20px;
+    margin: 5px 2px;
+    border-radius: 40%;
 }
 footer .list ul h2{
     font-size: 34px;
