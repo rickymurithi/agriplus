@@ -1,4 +1,4 @@
-# AgriPlus Prototype website page.
+# agriplus
 
 ##### By Erick Muriithi.
 ### It is an agricultural-market prototype website.
@@ -25,7 +25,7 @@
 
 ### Installation Process
 
-[Go Back to the top](#AgriPlus Prototype website page)
+[Go Back to the top](#agriplus)
 ## Technology Used
 * HTML - which was used to build the structure of the page.
 
@@ -36,13 +36,13 @@
 * https://moringaschool.instructure.com/courses/659/assignments/11548
 * Materialize CSS
 
-[Go Back to the top](#AgriPlus Prototype website page)
+[Go Back to the top](#agriplus)
 
 ## Licence
 
 MIT License
 
-Copyright (c) [2019] [Albert Byrone]
+Copyright (c) [2019] [Erick-Muriithi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -62,12 +62,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#AgriPlus Prototype website page)
+[Go Back to the top](#agriplus)
 
 ## Authors Info
 
 Slack Profile - [Erick Muriithi](https://moringaclassroom.slack.com/archives/D03M2BEJHPG)
 
-Linked - [Ricky Muriithi](www.linkedin.com/in/ricky-muriithi-4a997b129)
+Linked - [Ricky-Muriithi](https://linkedin.com/in/ricky-muriithi-4a997b129)
 
-[Go Back to the top](#AgriPlus Prototype website page)
+[Go Back to the top](#agriplus)
