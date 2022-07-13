@@ -13,15 +13,21 @@ nav{
     font-weight: bolder;
 }
 .navcenter{
-    justify-content: space-between;
+    justify-content: space-evenly;
     text-align: center;
     font-size: 25px;
     font-weight: bold;
 }
+.navcenter a{
+    padding-right: 10px;
+
+}
 .navend{
     padding-left: 450px;
     font-size: 25px;
-
+}
+.navend a{
+    padding-right: 10px;
 }
 button{
     background-color: orange;
@@ -62,7 +68,7 @@ button{
 .mergecontainer .intro p{
     margin-top: 8px;
     font-weight: 600;
-    /* font-size: 12px; */
+    font-size: 18px;
 }
 .mergecontainer .intro button{
     color: wheat;
@@ -79,7 +85,7 @@ button{
     width: 120px;
     height: 80px;
     padding-right: 30px;
-    padding-top: -40px;
+    padding-top: -90px;
     margin: auto;
     align-items: center;
     position: relative;
@@ -89,7 +95,7 @@ button{
 }
 .stats .numbers{
     text-align: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     height: 40px;
     margin: 10px;
 }
@@ -113,6 +119,7 @@ button{
     max-width: 50%;
     max-height: 50%;
     box-sizing: border-box;
+    flex: 1;
     
 }
 .categories{
