@@ -38,7 +38,7 @@
 
 [Go Back to the top](#agriplus)
 
-## Licence
+## License
 
 MIT License
 
